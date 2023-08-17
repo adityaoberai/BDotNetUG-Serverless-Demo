@@ -6,8 +6,8 @@ This is a demo function that showcases .NET 7 Isolated Worker Azure Functions
 
 ## Setup
 
-* Install Azure Functions Core Tools 4.x
-* Install .NET 7
+* Install [Azure Functions Core Tools 4.x](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local?pivots=programming-language-csharp)
+* Install [.NET 7](https://dotnet.microsoft.com/en-us/download)
 * Clone the repository
 * Enter the cloned repository's directory
 * Run `dotnet restore`
