@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "BDotNetUG_Serverless_Demo": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7044",
+      "launchBrowser": false
+    }
+  }
+}
